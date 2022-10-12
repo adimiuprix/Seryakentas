@@ -1,6 +1,6 @@
 [
   {
-    "name": "ENS",
+    "name": "ENS domain",
     "description": "My own implementation of Ethereum Name Service (ENS). You can use it to register your own .awesome domain and resolve them to your own address.",
     "demoSite": "https://ens-eight.vercel.app/",
     "githubLink": "#",
