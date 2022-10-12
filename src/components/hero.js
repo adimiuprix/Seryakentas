@@ -29,7 +29,7 @@ export const Hero = () => {
             <Typist cursor={{ show: true, blink: true, element: "_" }}>
               I'm{" "}
               <span className="ml-2 text-transparent bg-clip-text bg-gradient-to-r from-green-300 via-blue-500 to-purple-600">
-                Sercan Yektas
+                Adi pranoto
               </span>
             </Typist>
           </h5>

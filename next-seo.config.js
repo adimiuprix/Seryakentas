@@ -1,25 +1,25 @@
 export default {
-  titleTemplate: "Sercan Yektas - Full Stack Developer | %s",
-  defaultTitle: "Sercan Yektas - Full Stack Developer",
+  titleTemplate: "Adi pranoto - Full Stack Developer | %s",
+  defaultTitle: "Adi miuprix - Portofollio website",
   description:
     "I am a full stack developer who is passionate about the Blockchain Technology, Solidity and Web3",
-  canonical: "https://www.sercanyektas.com/",
+  canonical: "https://www.whoiami.com/",
   openGraph: {
     type: "website",
     locale: "en",
-    url: "https://www.sercanyektas.com",
-    title: "Sercan Yektas - Full Stack Developer",
+    url: "https://www.whoiami.com/",
+    title: "Adi pranoto - Full Stack Developer",
     description:
       "I am a full stack developer who is passionate about the Blockchain Technology, Solidity and Web3",
     image:
       "https://res.cloudinary.com/yektas/image/upload/v1640279619/Portfolio%20Website/ph6lccnydbjvm5zzqzjl.jpg",
-    site_name: "sercanyektas.com",
+    site_name: "whoiami.com",
     imageWidth: 1200,
     imageHeight: 1200,
   },
   twitter: {
-    handle: "@syektas",
-    site: "@syektas",
+    handle: "@Adi_miuprix",
+    site: "@Adi_miuprix",
     cardType: "summary_large_image",
   },
   additionalMetaTags: [
