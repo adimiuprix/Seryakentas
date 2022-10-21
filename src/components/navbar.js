@@ -33,9 +33,12 @@ export default function Navbar() {
   return (
     <Disclosure
       as="nav"
-      className={clsx("fixed z-50 w-full transition-all ease-in-out duration-200", {
-        "bg-gray-800 shadow-xl": scrolled,
-      })}
+      className={clsx(
+        "fixed z-50 w-full transition-all ease-in-out duration-200",
+        {
+          "bg-gray-800 shadow-xl": scrolled,
+        }
+      )}
     >
       {({ open }) => (
         <>
@@ -86,7 +89,7 @@ export default function Navbar() {
               </div>
               <div className="absolute inset-y-0 right-0 items-center hidden pr-2 sm:flex sm:static sm:inset-auto sm:ml-6 sm:pr-0">
                 <a
-                  href="https://linktr.ee/syektas"
+                  href="https://wa.me/+62895359738286"
                   target="_blank"
                   rel="noreferrer"
                   aria-label="Linktree"
