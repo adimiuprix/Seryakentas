@@ -118,7 +118,7 @@ export default function Navbar() {
                   </ScrollLink>
                 ))}
                 <a
-                  href="https://www.linkedin.com/in/sercanyektas/"
+                  href="https://wa.me/+62895359738286"
                   target="_blank"
                   rel="noreferrer"
                   aria-label="LinkedIn"
